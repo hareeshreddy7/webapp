@@ -51,4 +51,17 @@
 		<war warfile="${war.dir}/${app.name}.war" basedir="${work.dir}"/>
 	</target>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 </project>
