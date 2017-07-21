@@ -3,4 +3,4 @@ web.dir=WebContent
 war.dir=war
 lib.dir=lib
 jar.dir=jar 
-
+work.dir=work
